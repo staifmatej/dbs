@@ -58,4 +58,4 @@ The `insert-script.sql` populates the database with sample data, including emplo
 ## Queries
 This section includes 31 predefined SQL queries for data retrieval and manipulation. Queries cover various use cases and categories, ensuring robust functionality.
 
-For detailed descriptions and examples of each query, refer to the [Queries Documentation](./queries/README.md).
+For detailed descriptions and examples of each query, refer to the [Queries Documentation](./queries).
