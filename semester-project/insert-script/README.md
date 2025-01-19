@@ -199,4 +199,4 @@ commit;
 
 The `Insert Script` is an essential part of the database setup, allowing for efficient population of the schema with consistent and reliable data. The script ensures a clean state and aligns sequences to maintain database integrity.
 
-For further details about database structure and creation, refer to the [Create Script Documentation](#).
+For further details about database structure and creation, refer to the [Create Script Documentation](../create-script/).
