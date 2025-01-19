@@ -22,6 +22,8 @@ As part of my semester project titled **Přeživší štamgasti systému**, I ac
 - Addressed specific challenges related to data consistency and allergen management, incorporating detailed tracking of meals, inmates, and inspections.
 - Delivered complete documentation for the project, including a detailed description of the database structure, test data, and query results.
 
+*I am pleased to announce that this semester project was successfully defended during the semester project defenses.*
+
 ### Repository
 
 For a detailed overview of the project, including all implementation details, scripts, and additional documentation, visit the repository folder:
