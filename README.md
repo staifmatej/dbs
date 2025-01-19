@@ -4,8 +4,8 @@
 
 Based on my voluntary efforts and proactive engagement, I successfully earned two foundational Oracle Academy certifications:
 
-- **[Oracle Academy Database Design](./odkaz)**
-- **[Oracle Academy Database Programming with SQL](./odkaz)**
+- **[Oracle Academy Database Design](./oracle-academy-certifications/oracleacademy-database-design.png)**
+- **[Oracle Academy Database Programming with SQL](./oracle-academy-certifications/oracleacademy-database-with-SQL.png)**
 
 These certifications were not a mandatory part of the university course but demonstrate my commitment to expanding my skills and knowledge beyond the required curriculum.
 
