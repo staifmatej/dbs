@@ -474,4 +474,3 @@ FROM vezen;
 
 ---
 
-This document now contains all 31 queries. Let me know if you need any further modifications!
