@@ -2,7 +2,7 @@
 
 The `create-script.sql` file defines the schema for the database project **Surviving Regulars of the System / Přeživší štamgasti systému**. This document explains the purpose and structure of the SQL script with code examples for better understanding.
 
-## Purpose
+## Purpose of the Script
 The Create Script establishes the relational schema for the prison management system. It creates tables, defines their attributes, and enforces relationships and constraints such as primary keys, foreign keys, and data integrity.
 
 ---
