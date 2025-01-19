@@ -46,14 +46,14 @@ The `create-script.sql` contains SQL statements to create the database schema. I
 - Tables, attributes, and relationships are properly defined.
 - Integrity constraints like primary and foreign keys are implemented.
 
-[Link to Create Script Documentation](./create-script.sql)
+[Link to Create Script Documentation](./create-script)
 
 ### Insert Script
 The `insert-script.sql` populates the database with sample data, including employees, prisoners, meals, and allergens. It ensures:
 - Data consistency and proper relationships.
 - Transactions are correctly committed.
 
-[Link to Insert Script Documentation](./insert-script.sql)
+[Link to Insert Script Documentation](./insert-script)
 
 ## Queries
 This section includes 31 predefined SQL queries for data retrieval and manipulation. Queries cover various use cases and categories, ensuring robust functionality.
