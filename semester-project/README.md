@@ -59,3 +59,12 @@ The `insert-script.sql` populates the database with sample data, including emplo
 This section includes 31 predefined SQL queries for data retrieval and manipulation. Queries cover various use cases and categories, ensuring robust functionality.
 
 For detailed descriptions and examples of each query, refer to the [Queries Documentation](./queries).
+
+## Periodic Table of Joins
+
+This graphic serves as a visual instrument to understand the relationships and structure of joins in a periodic table format. It simplifies complex SQL join operations by categorizing and presenting them in an easy-to-digest manner, helping users to intuitively grasp join types and their applications.
+
+![Conceptual Schema](periodic-table-of-joins.png)
+
+*Note: For a downloadable version of the periodic table in PDF format, refer to [Periodic Table of Joins](periodic-table-of-joins.pdf).*
+
