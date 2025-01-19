@@ -191,4 +191,4 @@ CREATE TABLE kontrola_jidla (
 ## Summary
 The Create Script forms the backbone of the database system, ensuring proper structure and relationships among the entities. It handles the definition of tables, attributes, and constraints to enforce data integrity.
 
-For further details on how to populate the database with sample data, see the [Insert Script Documentation](./insert-script.).
+For further details on how to populate the database with sample data, see the [Insert Script Documentation](../insert-script/).
